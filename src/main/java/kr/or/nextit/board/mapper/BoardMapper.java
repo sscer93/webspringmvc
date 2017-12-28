@@ -7,6 +7,7 @@ import org.apache.ibatis.annotations.Mapper;
 
 import kr.or.nextit.board.model.Board;
 
+// 매퍼 주석
 @Mapper
 public interface BoardMapper {
 	
